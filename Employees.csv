@@ -1,0 +1,15 @@
+EMPLOYEESID;NAME;LASTNAME;SEX;AGE;MARRIED;CHILDREN
+1;Derick;Magill;M;39;Y;N
+2;Phillip;Egger;M;23;N;N
+3;Ellis;Robertson;M;27;N;N
+4;William;Mussen;M;28;Y;Y
+5;Javas;Hedge;M;32;N;Y
+6;Bruce;Yousuf;F;22;N;N
+7;Roberta;Holloway;F;34;Y;Y
+8;Penelope;Dupper;F;25;N;N
+9;Kirk;Lee;M;36;N;Y
+10;Janet;Gray;F;24;Y;N
+11;Nelson;Wilkens;M;22;N;N
+12;Willard;Chatman;M;21;N;N
+13;Carroll;Pewitt;M;23;N;N
+14;Kenneth;Weise;M;25;Y;Y
